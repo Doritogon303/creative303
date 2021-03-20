@@ -1,0 +1,15 @@
+{
+  "time:root": {
+    "criteria": {
+      "oof": "2020-10-23 01:23:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:wooded_badlands_plateau": "2020-10-23 01:23:40 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 2578
+}

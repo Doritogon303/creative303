@@ -1,0 +1,21 @@
+{
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2020-11-01 22:19:21 +0000"
+    },
+    "done": true
+  },
+  "time:root": {
+    "criteria": {
+      "oof": "2020-11-01 22:15:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:wooded_badlands_plateau": "2020-11-01 22:15:49 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2578
+}

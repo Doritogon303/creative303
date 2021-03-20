@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:wooded_badlands_plateau": "2020-02-27 21:45:40 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 2230
+}

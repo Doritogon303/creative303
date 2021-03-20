@@ -1,0 +1,27 @@
+{
+  "time:play1hour": {
+    "criteria": {
+      "2": "2020-06-03 21:01:30 +0300"
+    },
+    "done": true
+  },
+  "time:play30minutes": {
+    "criteria": {
+      "1": "2020-06-03 20:31:07 +0300"
+    },
+    "done": true
+  },
+  "time:root": {
+    "criteria": {
+      "oof": "2020-06-03 19:59:56 +0300"
+    },
+    "done": true
+  },
+  "time:play2hours": {
+    "criteria": {
+      "3": "2020-06-03 22:04:57 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 2230
+}

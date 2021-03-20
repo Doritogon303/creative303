@@ -1,0 +1,51 @@
+{
+  "time:play12hours": {
+    "criteria": {
+      "3": "2020-03-29 17:09:07 +0300"
+    },
+    "done": true
+  },
+  "time:play1hour": {
+    "criteria": {
+      "2": "2020-03-27 12:48:56 +0200"
+    },
+    "done": true
+  },
+  "time:play30minutes": {
+    "criteria": {
+      "1": "2020-03-27 12:18:56 +0200"
+    },
+    "done": true
+  },
+  "time:play6hours": {
+    "criteria": {
+      "3": "2020-03-27 17:48:56 +0200"
+    },
+    "done": true
+  },
+  "time:root": {
+    "criteria": {
+      "oof": "2020-03-27 11:22:54 +0200"
+    },
+    "done": true
+  },
+  "time:play2hours": {
+    "criteria": {
+      "3": "2020-03-27 13:48:56 +0200"
+    },
+    "done": true
+  },
+  "time:play1day": {
+    "criteria": {
+      "3": "2020-04-19 21:38:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:wooded_badlands_plateau": "2020-03-27 11:22:54 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 2230
+}

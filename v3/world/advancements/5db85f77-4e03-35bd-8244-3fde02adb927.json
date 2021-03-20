@@ -1,0 +1,33 @@
+{
+  "time:play1hour": {
+    "criteria": {
+      "2": "2020-10-17 10:17:00 +0000"
+    },
+    "done": true
+  },
+  "time:play30minutes": {
+    "criteria": {
+      "1": "2020-10-17 10:17:00 +0000"
+    },
+    "done": true
+  },
+  "time:root": {
+    "criteria": {
+      "oof": "2020-10-17 10:17:00 +0000"
+    },
+    "done": true
+  },
+  "time:play2hours": {
+    "criteria": {
+      "3": "2020-10-17 10:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:wooded_badlands_plateau": "2020-10-17 10:16:59 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2578
+}

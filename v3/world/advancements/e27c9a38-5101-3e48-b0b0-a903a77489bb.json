@@ -1,0 +1,36 @@
+{
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2020-05-10 16:16:03 +0300"
+    },
+    "done": true
+  },
+  "time:play1hour": {
+    "criteria": {
+      "2": "2020-05-10 17:15:54 +0300"
+    },
+    "done": true
+  },
+  "time:play30minutes": {
+    "criteria": {
+      "1": "2020-05-10 16:41:06 +0300"
+    },
+    "done": true
+  },
+  "time:root": {
+    "criteria": {
+      "oof": "2020-05-10 16:08:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mountains": "2020-05-10 16:15:13 +0300",
+      "minecraft:river": "2020-05-10 16:13:28 +0300",
+      "minecraft:wooded_mountains": "2020-05-10 16:15:01 +0300",
+      "minecraft:wooded_badlands_plateau": "2020-05-10 16:08:12 +0300"
+    },
+    "done": false
+  },
+  "DataVersion": 2230
+}

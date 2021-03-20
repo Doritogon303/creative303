@@ -1,0 +1,31 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "No Lifer",
+            "color": "dark_red",
+            "bold": true
+        },
+        "description": {
+            "text": "Поиграть 100 часов"
+        },
+        "icon": {
+            "item": "minecraft:dragon_egg"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "3": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "requirements": [
+        [
+            "3"
+        ]
+    ],
+    "parent": "time:root"
+}
